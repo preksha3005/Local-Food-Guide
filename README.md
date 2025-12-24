@@ -50,6 +50,7 @@ The decoder only uses information from documented street food cultural context. 
 *Built to help decode the real language and practices of Indian street food culture.*
 
 Screenshots:
+
 Kiro responding to query present in custom file: 
 
 <img width="188" height="393" alt="Kiro_response1" src="https://github.com/user-attachments/assets/b7640fce-5e8d-4c02-9137-ae3d40a809b9" />
