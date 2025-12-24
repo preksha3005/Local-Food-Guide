@@ -59,7 +59,7 @@ The decoder only uses information from documented street food cultural context. 
    - How spicy is a vada pav?
 
 
-Screenshots:
+## Screenshots:
 
 Kiro responding to query present in custom file: 
 
