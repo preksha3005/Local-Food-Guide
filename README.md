@@ -49,6 +49,19 @@ The decoder only uses information from documented street food cultural context. 
 
 *Built to help decode the real language and practices of Indian street food culture.*
 
+## Steps to Try It
+
+1. Clone this GitHub repository.
+2. Open the project folder in **Kiro**.
+3. Ensure the following files are loaded:
+   - `.kiro/product.md`
+   - `.kiro/steering/`
+4. Ask questions such as:
+   - What does “special” usually mean on an Indian street food menu?
+   - Is Jain street food always completely onion-free?
+   - How spicy is a vada pav?
+
+
 Screenshots:
 
 Kiro responding to query present in custom file: 
