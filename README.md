@@ -45,9 +45,6 @@ This decoder respects street food culture while being practically honest about h
 
 The decoder only uses information from documented street food cultural context. If something isn't covered in the cultural documentation, it will explicitly say so rather than guess or use general food knowledge.
 
----
-
-*Built to help decode the real language and practices of Indian street food culture.*
 
 ## Steps to Try It
 
@@ -72,3 +69,8 @@ Kiro responding to query present in custom file:
 Kiro responding to query not present in custom file: 
 
 <img width="199" height="181" alt="kiro_response2" src="https://github.com/user-attachments/assets/f845999a-0c88-404b-9fda-cd9cc6d0b50d" />
+
+
+---
+
+*Built to help decode the real language and practices of Indian street food culture.*
